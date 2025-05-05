@@ -4,3 +4,7 @@ pypdf
 docarray
 pandas
 giskard[llm]
+beautifulsoup4
+langchain-openai    
+huggingface_hub
+sentence-transformers
