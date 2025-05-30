@@ -8,3 +8,6 @@ beautifulsoup4
 langchain-openai    
 huggingface_hub
 sentence-transformers
+unstructured[pdf]
+openpyxl
+huggingface_hub[hf_xet]
